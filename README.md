@@ -1,6 +1,6 @@
 # Rtcamp
 Rtcamp Assignment
 Rtcamp Book Assignemtn with all features.
-If plugin not work perfect in any theme just switch te other theme
+If plugin not work perfect in any theme just switch to the other theme.
 
-download this file and intall in your wordpress..
+Download this file and install in your wordpress..
